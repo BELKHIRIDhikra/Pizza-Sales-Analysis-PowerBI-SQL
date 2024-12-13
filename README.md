@@ -149,10 +149,15 @@ Lists the top 5 pizzas based on the total quantity sold.
 
 ## Using Power BI with a CSV File
 1: Download and save your CSV file locally.
+
 2: Open Power BI and go to “Home” > “Get Data” > “Text/CSV”.
+
 3: Browse to the location where your CSV file is stored and select it.
+
 4: Click “Load” to import the data into Power BI. This will create a new table in your Power BI model.
+
 5: Once your data is imported, you can use Power BI to manipulate and analyze it. You can create new columns, perform calculations, and generate reports using the provided SQL queries as a guide.
+
 6: Use the “Transform Data” option to refine and clean your imported data if necessary. This step allows you to adjust data types, handle missing values, and format the dataset for easier analysis.
 ## Pizza Sales Dashboard Overview
 
