@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/714ba300-ecaf-408c-8367-bb038ed66faf)# Project Overview
+# Project Overview
 This project is a comprehensive analysis of pizza sales data using SQL and Power BI to understand sales performance and customer preferences. The main goal is to help the client identify top and worst-selling pizzas, determine the most profitable and popular pizza types, and make informed decisions based on sales patterns. The data covers multiple metrics such as revenue, quantity sold, and total orders over a defined date range. This project combines SQL for data querying and manipulation, and Power BI for data visualization, allowing users to easily interact with and interpret complex sales data through intuitive dashboards and visual reports.
 
 # Features Section:
@@ -149,6 +149,10 @@ Lists the top 5 pizzas based on the total quantity sold.
 4: Click “Load” to import the data into Power BI. This will create a new table in your Power BI model.
 5: Once your data is imported, you can use Power BI to manipulate and analyze it. You can create new columns, perform calculations, and generate reports using the provided SQL queries as a guide.
 6: Use the “Transform Data” option to refine and clean your imported data if necessary. This step allows you to adjust data types, handle missing values, and format the dataset for easier analysis.
+
+![pizza-sales1](https://github.com/user-attachments/assets/2ceff51c-d1c3-4ccb-b7f6-038a016ee76e)
+
+![image](https://github.com/user-attachments/assets/714ba300-ecaf-408c-8367-bb038ed66faf)
 
 
 
