@@ -3,21 +3,26 @@ This project is a comprehensive analysis of pizza sales data using SQL and Power
 
 # Features Section:
 Data Extraction: SQL scripts used to extract relevant pizza sales data from various sources, ensuring all necessary information is captured for analysis.
+
 Data Cleaning: Techniques applied to prepare and clean the dataset, handling missing values, correcting inconsistencies, and transforming data for easier analysis.
+
 Sales Trend Analysis: Visualizations that display the overall trends in pizza sales over time, allowing users to understand seasonality and peak periods.
+
 KPI Calculation: The project calculates key performance indicators (KPIs) such as total revenue, average order size, and order frequency to measure business performance effectively.
+
 Product Performance Insights: Reports and visualizations that provide detailed insights into the sales performance of different pizza types, highlighting top and worst sellers.
+
 Interactive Dashboard in Power BI: An interactive dashboard built using Power BI where users can filter and explore data, view different charts and graphs, and drill down into specific metrics.
+
 Custom Visualizations: Custom visuals including heat maps for sales density, pie charts for order distribution, bar charts for product comparison, and trend lines to show growth patterns.
 
 # Technologies Used:
-SQL: Employed for querying and analyzing the pizza sales data. SQL scripts were used to extract, clean, and manipulate data from various sources.
+SQL: Employed for querying and analyzing the pizza sales data. SQL scripts were used to extract, clean, and manipulate data.
 Power BI: Utilized to build an interactive dashboard that visualizes sales trends, KPIs, and product performance. The dashboard includes charts, graphs, and custom visuals for detailed analysis.
 ## SQL
 ## Pizza Sales Dataset
 
-This dataset contains sales information used for the pizza sales analysis project. It includes data on sales, order sizes, and customer preferences.
-
+This dataset contains sales information used for the pizza sales analysis project.
 ### CSV File
 The dataset can be downloaded from [Google Drive](https://drive.google.com/file/d/1yPYIApqIW3L9oYdwdFU-TRVxJudUTa4D/view?usp=sharing).
 
@@ -149,6 +154,7 @@ Lists the top 5 pizzas based on the total quantity sold.
 4: Click “Load” to import the data into Power BI. This will create a new table in your Power BI model.
 5: Once your data is imported, you can use Power BI to manipulate and analyze it. You can create new columns, perform calculations, and generate reports using the provided SQL queries as a guide.
 6: Use the “Transform Data” option to refine and clean your imported data if necessary. This step allows you to adjust data types, handle missing values, and format the dataset for easier analysis.
+## Pizza Sales Dashboard Overview
 
 ![pizza-sales1](https://github.com/user-attachments/assets/2ceff51c-d1c3-4ccb-b7f6-038a016ee76e)
 
